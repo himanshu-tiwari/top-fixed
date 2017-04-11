@@ -1,0 +1,8 @@
+.banner-top-rt{
+	max-width: 100px;
+    position: absolute;
+    margin: 0px;
+    top: 0px;
+    right: 50px;
+    z-index: 999;
+}
